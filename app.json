@@ -4,10 +4,10 @@
     "slug": "perfil3",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./img/app_movil.jpg",
+    "icon": "./assets/app-movil.jpg",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./img/app_movil.jpg",
+      "image": "./assets/splash.jpg",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -16,7 +16,7 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/adaptive-icon.jpg",
         "backgroundColor": "#ffffff"
       }
     },
