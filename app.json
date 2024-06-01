@@ -4,10 +4,10 @@
     "slug": "perfil3",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./img/app_movil.jpg",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./img/app_movil.jpg",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
